@@ -1,27 +1,27 @@
-# [ Software Information ] #
+# Software Information
   > Version: 1.0.0
   > Creation Date: 2022/04/20
   > Last Modified: 2020/04/20
 
-# [ Author Information ] #
+# Author Information
   > Author: TTI Softwares
   > Author URL: https://github.com/exgamext
 
-# [ License Information ] #
+# License Information
   > License: GNU General Public License v3.0
   > License URI: http://www.gnu.org/licenses/gpl-3.0.html
   > Copyright: (c) 2022 TTI Softwares.
 
 
 
-# [ Portuguese Version ] #
+# Portuguese Version
 
 VisualX Framework é um framework visual para aplicações web com o objetivo de facilitar a criação de aplicações web. Trazendo a você um conjunto completo de módulos e componentes para a criação de aplicações modernas e robustas.
 
 Com o VisualX Framework você poderá criar um site com uma maior eficiência e velocidade de desenvolvimento. Utilizando de classes CSS e funções JavaScript, você poderá criar um site com um visual incrível e totalmente responsivo.
 
 
-# [ English Version ] #
+# English Version
 
 VisualX Framework is a visual framework for web applications with the objective of making web applications easy to create. Bringing you a complete set of modules and components to create modern and robust applications.
 
