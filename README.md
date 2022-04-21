@@ -1,15 +1,20 @@
 # Software Information
   > Version: 1.0.0
+
   > Creation Date: 2022/04/20
+
   > Last Modified: 2020/04/20
 
 # Author Information
   > Author: TTI Softwares
+
   > Author URL: https://github.com/exgamext
 
 # License Information
   > License: GNU General Public License v3.0
-  > License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+  > License URI: http://www.gnu.org/licenses/gpl-3.0.
+  
   > Copyright: (c) 2022 TTI Softwares.
 
 
