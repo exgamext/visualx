@@ -1,9 +1,9 @@
 # Software Information
-  > Version: 1.0.0
+  > Version: 1.3.0
 
   > Creation Date: 2022/04/20
 
-  > Last Modified: 2020/04/20
+  > Last Modified: 2022/11/27
 
 # Author Information
   > Author: TTI Softwares
